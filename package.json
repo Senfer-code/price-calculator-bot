@@ -1,0 +1,15 @@
+{
+  "name": "price-calculator-bot",
+  "version": "1.0.0", 
+  "description": "Telegram bot for calculating prices with 50% discount",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
